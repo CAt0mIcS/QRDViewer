@@ -14,17 +14,14 @@
    <string>MainWindow</string>
   </property>
   <widget class="QWidget" name="centralWidget">
-   <widget class="QPushButton" name="pushButton">
+   <widget class="QTreeView" name="tvTables">
     <property name="geometry">
      <rect>
-      <x>290</x>
-      <y>100</y>
-      <width>101</width>
-      <height>31</height>
+      <x>30</x>
+      <y>10</y>
+      <width>256</width>
+      <height>192</height>
      </rect>
-    </property>
-    <property name="text">
-     <string>PushButton</string>
     </property>
    </widget>
   </widget>
@@ -34,7 +31,7 @@
      <x>0</x>
      <y>0</y>
      <width>856</width>
-     <height>26</height>
+     <height>21</height>
     </rect>
    </property>
   </widget>
